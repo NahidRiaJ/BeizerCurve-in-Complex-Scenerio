@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1737552029 source:e:\3-2\computer graphics lab\beizerwithcomplex\bc.c
+	<graphics.h>
+	<conio.h>
+	<math.h>
+
+1266076214 h:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
